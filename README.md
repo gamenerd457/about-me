@@ -1,14 +1,14 @@
 # about-me
 
-hey guys im adithyan sukumar \n
-i love gaming and technology \n
-i am a machine learning aspirant \n
+*hey guys im adithyan sukumar
+*i love gaming and technology 
+*i am a machine learning aspirant 
 
-known software skills:-
-@tensorlfow \n
-@flutter \n
-@python \n
-@java  \n
-@scala   \n
-@matlab  \n
-@scikit-learn  \n
+*known software skills:-
+*tensorlfow 
+*flutter 
+*python 
+*java  
+*scala   
+*matlab 
+*scikit-learn  
