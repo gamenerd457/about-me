@@ -1,4 +1,4 @@
-![alt text](https://www.canva.com/design/play?template=EADaj-hseag&category=tACZChtREUA&type=TAD59MlPNfs)
+![hello](https://i.pinimg.com/originals/60/75/55/607555eb38b148551d9555823f697f65.jpg)
 # about-me
  hey guys i am adithyan sukumar
 * i love gaming and technology 
