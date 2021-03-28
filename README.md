@@ -1,10 +1,10 @@
 # about-me
- hey guys im adithyan sukumar
+ hey guys i am adithyan sukumar
 * i love gaming and technology 
 * i am a machine learning aspirant 
 
 # known software skills:-
-* tensorlfow 
+* tensorlfow ![alt text](https://www.tensorflow.org/images/tf_logo_social.png)
 * flutter 
 * python 
 * java  
